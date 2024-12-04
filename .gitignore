@@ -1,0 +1,71 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Diretórios de build e de saída
+dist/
+build/
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Diretórios e arquivos temporários
+tmp/
+temp/
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Arquivos de ambiente
+.env
+
+# Dependências do sistema
+*.pid
+*.seed
+
+# Diretórios de cache
+.cache/
+.npm/
+.yarn/
+
+# Arquivos do editor
+*.swp
+*.swo
+*.bak
+
+# Arquivos de saída
+*.out
+*.class
+
+# Arquivos do sistema
+*.iso
+*.tar.gz
+*.zip
+
+# Arquivos específicos de IDEs e editores
+.idea/
+*.iml
+*.iws
+
+# Outros arquivos comuns a serem ignorados
+*.pem
+*.key
+*.crt
+
+# Outros arquivos temporários de sistema
+*.bak
+*.tmp
+
+# Diretórios específicos de ferramentas e plataformas
+.vscode-test/
+
+# Arquivos de banco de dados
+*.sqlite
+*.db
